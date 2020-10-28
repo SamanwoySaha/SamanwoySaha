@@ -1,10 +1,6 @@
 ### Hi there, I am Samanwoy 👋
 
 I am Javascript Lover
-
-You can find me on [![LinkedIn][2.2]][2].
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2]: https://www.linkedin.com/in/samanwoy-saha/
 #### [Download Resume](https://drive.google.com/file/d/1sDs2G2lW3txrw5QsLxhjJ0xSHE5-ImWL/view?usp=sharing)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SamanwoySaha)
