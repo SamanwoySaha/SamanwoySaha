@@ -5,6 +5,8 @@ I am Javascript Lover
 ### [Download Resume](https://drive.google.com/file/d/1sDs2G2lW3txrw5QsLxhjJ0xSHE5-ImWL/view?usp=sharing)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SamanwoySaha)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **SamanwoySaha/SamanwoySaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
