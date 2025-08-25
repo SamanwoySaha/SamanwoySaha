@@ -2,7 +2,7 @@
 
 I'm a software engineer, building practical, end-to-end solutions that combine machine learning models with robust software systems to solve real-world problems.
 
-> 💡 *I'm open to new opportunities in the domain of backend engineering, systems, cloud & networking!*
+> 💡 *I'm open to new opportunities in the domain of machine learning and backend engineering!*
 
 ### Tech Stack
 - **Languages** - `C/C++` `Python` `Javscript` `Typescript` `SQL`
@@ -13,8 +13,6 @@ I'm a software engineer, building practical, end-to-end solutions that combine m
 - **Tools** - `Git` `Github`
 - **CS Subjects** - `DBMS` `Computer Network` `Operating System` `Obeject Oriented Programming` `Data Structures and Algorithms`
 - **Learning** -  `Jenkins` `Flask` `Redis` `Kafka` `Kubernetes` `Machine Learning`
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=SamanwoySaha)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanwoySaha)](https://github.com/anuraghazra/github-readme-stats)
 
