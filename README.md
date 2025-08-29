@@ -2,16 +2,16 @@
 
 I'm a software engineer, building practical, end-to-end solutions that combine machine learning models with robust software systems to solve real-world problems.
 
-> 💡 *I'm open to new opportunities in the domain of machine learning and backend engineering!*
+> 💡 *I'm open to new opportunities in the domain of machine learning.*
 
 ### Tech Stack
-- **Languages** - `C/C++` `Python` `Javscript` `Typescript` `SQL`
-- **Frontend** - `React` `Next.js` `tailwind` 
-- **Backend** - `Node.js` `Express.js` `Prisma ORM` `WebSocket` 
-- **Devops** - `AWS (EC2, S3)` `Linux` `Docker` 
+- **Languages** - `C/C++` `Javscript` `Typescript` `Python` `SQL`
+- **Frontend** - `HTML` `CSS` `tailwind` `React` `Next.js` `Streamlit`
+- **Backend** - `Node.js` `Express.js` `Prisma ORM` `WebSocket`
 - **Database** -  `PostgreSQL` `MongoDB`
-- **Tools** - `Git` `Github`
-- **Learning** -  `Jenkins` `Flask` `Redis` `Kafka` `Kubernetes` `Machine Learning`
+- **Cloud & Devops** - `AWS (EC2, S3)` `Linux` `Docker` `CI/CD Pipelines`
+- **Data Science & Machine Learning**: `Feature Engineering` `Statistical Analysis` `Exploratory Data Analysis (EDA)` `Data Preprocessing` `Model Evaluation` `Model Deployment` `Linear Regression` `Logistic Regression` `Support Vector Machine` `K-Means Clustering` `Scikit-Learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+- **Tools** - `Git` `Github` `Jupyter Notebook`
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SamanwoySaha)](https://github.com/anuraghazra/github-readme-stats)
 
